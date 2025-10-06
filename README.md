@@ -1,4 +1,3 @@
-<div align="center">
   
 # 👋 Hi, I'm Alizehy Abbasi
 
@@ -6,8 +5,6 @@
     **Blending tech, people, and creativity to make ideas real 🚀**
 📍 Abbottabad, Pakistan | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alizehy-kibria-7550a1211)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alizehyabbasi@gmail.com)
-
-</div>
 
 ---
 
