@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Alizehy Abbasi
 
 🎓 **BSCS Student | Aspiring Project Manager | Social Media & Tech Enthusiast**
-  🚀**Blending tech, people, and creativity to make ideas real 🚀**   
+🚀**Blending tech, people, and creativity to make ideas real 🚀**   
 📍 Abbottabad, Pakistan | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alizehy-kibria-7550a1211)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alizehyabbasi@gmail.com)
 
